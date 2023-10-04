@@ -1,0 +1,15 @@
+{
+    "startupProject": "intro",
+    "expandedItems": [
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source",
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source/arith",
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source/floating",
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source/memory",
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source/phase",
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/dub.json",
+        "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source/compile"
+    ],
+    "selectedWorkspaceItem": "/home/admin/dlang-project/guile-dlang-intro/dlang/intro/source/app.d",
+    "files": [
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "intro",
+    "targetName": "intro",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

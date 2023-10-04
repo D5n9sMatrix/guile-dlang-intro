@@ -1,0 +1,9 @@
+{
+    "name": "dlang",
+    "description": null,
+    "projects": {
+        "intro": "intro/dub.json"
+    },
+    "includePath": {
+    }
+}
